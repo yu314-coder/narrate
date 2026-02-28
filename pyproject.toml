@@ -43,8 +43,8 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/user/narrate"
-Repository = "https://github.com/user/narrate"
+Homepage = "https://github.com/yu314-coder/narrate"
+Repository = "https://github.com/yu314-coder/narrate"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/narrate"]
